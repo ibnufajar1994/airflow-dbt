@@ -26,7 +26,7 @@ Additional features include dynamic task generation, allowing the DAG to adjust 
 ## Techstack
 
 - **Data Base**: PostgreSQL 
-- **Object Storage**: MinIO (`extracted-data` bucket)
+- **Object Storage**: MinIO 
 - **Data Transformations Tools**: DBT (`warehouse` schema)
 - **Orchestrator**: Apache Airflow
 - **Notifier**: Slack Webhook 
