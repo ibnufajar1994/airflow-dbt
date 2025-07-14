@@ -1,7 +1,5 @@
-# airflow-dbt
+# AIRFLOW DBT DATA PIPELINE
 ETL Pipeline Orchestration Using Airflow &amp; DBT
-
-# Pac-Flights Data Pipeline
 
 
 ## Table of Contents
